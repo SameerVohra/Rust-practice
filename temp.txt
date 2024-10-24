@@ -1,0 +1,1 @@
+this is a temporary file and its value is being read with the help of RESULT method in RUST
